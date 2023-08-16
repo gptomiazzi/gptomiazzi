@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gab 🦊</h1>
+<h1 align="center">Hi, I'm Gabs 😃</h1>
 <h3 align="center"></br>Languages and Tools:</h3>
 
 <div align="center" style="display: inline_block"><br>
